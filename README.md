@@ -13,6 +13,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMartinsDuarte&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=7CFC00&icon_color=eafaff">
 </p>
 
+[//]: # (Link para as badges: https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages-)
+
 <div align='center'>
   <h1 >🛠 Tecnologias e Linguagens ⌨ </h1>
   <div>
